@@ -94,7 +94,11 @@ To run this project, you need to add the following environment variables to your
 
 - API Access:
 
-Access the API through the endpoints specified in the documentation.
+  Access the API via http://localhost: ( _port in your environment_ ) /
+  
+  Example:
+  
+  http://localhost:5000/
 
 - Run your project with:
 
@@ -102,7 +106,7 @@ Access the API through the endpoints specified in the documentation.
   npm start
 ```
 
-- Enjoy your programs!
+- Develop as you wish
 
 ## Authors
 
