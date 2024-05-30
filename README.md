@@ -56,7 +56,7 @@ To run this project, you need to add the following environment variables to your
   - `DB_DIALECT_PRODUCTION` = _your production dialect_
 
 - ### database selection
-  - `NODE_ENV` = _where you run the database (development, test or production)_
+  - `NODE_ENV` = _adjust it to where you run the database (development, test or production)_
 
 
 - ### JWT Configuration
